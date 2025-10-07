@@ -7,6 +7,12 @@ I'm a **Computer Science student at UNIESP, Brazil**, focusing on **Full-Stack W
 * Performance
 * Artificial Intelligence (AI)
 
+---
+
+## 🚀 Learning now:
+
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40"/><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"/><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"/><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+
 ## 🛠️ Tech Stack
 
 | Linguagens | Frameworks & Bibliotecas | Ferramentas & Ambiente |
