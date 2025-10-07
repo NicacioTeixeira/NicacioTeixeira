@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**NicacioTeixeira/NicacioTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Linguagens:**
+<img src="URL_DO_ICONE_JAVA" alt="Java" width="40"/>
+<img src="URL_DO_ICONE_KOTLIN" alt="Kotlin" width="40"/>
+<img src="URL_DO_ICONE_SWIFT" alt="Swift" width="40"/>
 
-Here are some ideas to get you started:
+**Frameworks & Bibliotecas:**
+<img src="URL_DO_ICONE_SPRING" alt="Spring" width="40"/>
+<img src="URL_DO_ICONE_FLUTTER" alt="Flutter" width="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ferramentas & Ambiente:**
+<img src="URL_DO_ICONE_DOCKER" alt="Docker" width="40"/>
+<img src="URL_DO_ICONE_AWS" alt="AWS" width="40"/>
