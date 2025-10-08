@@ -15,7 +15,7 @@ I'm a **Computer Science student at UNIESP, Brazil**, focusing on **Full-Stack W
 
 ## 🔗 Conexão
 
-<img src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/nic%C3%A1cio-teixeira-de-lira-neto-009325324" width="40"/><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram](https://www.instagram.com/nicacio.maya?igsh=MW85d3pkN2lzemx0MA==" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/nic%C3%A1cio-teixeira-de-lira-neto-009325324" width="40"/><img src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/nicacio.maya?igsh=MW85d3pkN2lzemx0MA==" width="40"/>
 
 ## 🛠️ Tech Stack
 
